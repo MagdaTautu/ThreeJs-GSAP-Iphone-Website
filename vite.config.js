@@ -10,7 +10,7 @@ import { defineConfig } from 'vite'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/3D-Iphone-Website/',
+  base: "/ThreeJs-GSAP-Iphone-Website/",
   plugins: [
     tailwindcss(),
   ],
